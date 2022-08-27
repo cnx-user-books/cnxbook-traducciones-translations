@@ -1,3 +1,94 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:cnxml="http://cnx.rice.edu/cnxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11317</md:content-id>  <md:title>Glossaries and vocabulary lists</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>              <md:uuid>be64a69c-190f-4c9b-a323-af0e9a4850de</md:uuid>
-<md:slug>traducciones-translations</md:slug>
-</metadata>  <col:content>          <col:module document="m34696">        <col:featured-links>                      <cnxml:link-group type="example">              <cnxml:link url="http://hdl.handle.net/1911/37169">Papeles sobre la reduccion del Seno Mexicano, y Sierra gorda</cnxml:link>              <cnxml:link url="http://hdl.handle.net/1911/37171">Ensayo Sobre La Reduccion Y Colonizacion De Las Tribas Barbaras Del Continente</cnxml:link>              <cnxml:link url="http://hdl.handle.net/1911/27297">Carta de Juan Elizondo, 23 marzo, 1835, Matamoros, Mexico</cnxml:link>              <cnxml:link url="http://scholarship.rice.edu/handle/1911/9227">Carta de J.G. de los Santos a C. Antonio Vasquez, 23 mayo, 1830</cnxml:link>              <cnxml:link url="http://scholarship.rice.edu/handle/1911/27118">Carta de Ramon Musquiz, 8 marzo, 1831, Goliad, Bejar</cnxml:link>            </cnxml:link-group>                                <cnxml:link-group type="supplemental">              <cnxml:link url="http://cnx.org/content/m35967/latest/">Glossary of common colonial Spanish terms and phrases</cnxml:link>              <cnxml:link url="http://www.rae.es/rae.html">Real Academia Española</cnxml:link>              <cnxml:link url="http://www.somosprimos.com/spanishterms/spanishterms.htm">Colonial Spanish Terms</cnxml:link>            </cnxml:link-group>                  </col:featured-links>      </col:module>                            <col:module document="m38295">        <col:featured-links>                      <cnxml:link-group type="supplemental">              <cnxml:link url="http://cnx.org/content/m38294/latest/">Spanish reading passage: Precios de pasaje por el ferrocarril</cnxml:link>              <cnxml:link url="http://cnx.org/content/m38293/latest/">Spanish reading passage: Informe para el viajero del ferrocarril</cnxml:link>              <cnxml:link url="http://hdl.handle.net/1911/27428">De México a Chicago y Nueva York: guía para el viajero en la que se describen las principales ciudades y ferrocarriles.</cnxml:link>              <cnxml:link url="http://hdl.handle.net/1911/36240">From El Paso to New Orleans</cnxml:link>              <cnxml:link url="http://www.spanishdict.com/">SpanishDict</cnxml:link>              <cnxml:link url="http://www.rae.es/rae.html">Real Academia Española</cnxml:link>            </cnxml:link-group>                  </col:featured-links>      </col:module>                            <col:module document="m38476">        <col:featured-links>                      <cnxml:link-group type="supplemental">              <cnxml:link url="http://hdl.handle.net/1911/36248">Savage America, Chapter II [Excerpt from: The Moral History of Women]</cnxml:link>              <cnxml:link url="http://www.wordreference.com/">Word Reference dictionary</cnxml:link>              <cnxml:link url="http://www.spanishdict.com/">SpanishDict</cnxml:link>              <cnxml:link url="http://www.rae.es/rae.html">Real Academia Española</cnxml:link>            </cnxml:link-group>                                <cnxml:link-group type="prerequisite">              <cnxml:link url="http://hdl.handle.net/1911/21866">Historia moral de las mujeres</cnxml:link>              <cnxml:link url="http://cnx.org/content/m38472/latest/">“Historia de Xochitl”: A Cultural Spanish reading passage</cnxml:link>            </cnxml:link-group>                  </col:featured-links>      </col:module>                            <col:module document="m35967">        <col:featured-links>                      <cnxml:link-group type="example">              <cnxml:link url="http://oaap.rice.edu/">Our Americas Archive Partnership</cnxml:link>              <cnxml:link url="http://hdl.handle.net/1911/37171">nsayo Sobre La Reduccion Y Colonizacion De Las Tribas Barbaras Del Continente</cnxml:link>              <cnxml:link url="http://hdl.handle.net/1911/37169">Papeles sobre la reduccion del Seno Mexicano, y Sierra gorda</cnxml:link>              <cnxml:link url="http://hdl.handle.net/1911/21863">América y sus mujeres</cnxml:link>              <cnxml:link url="http://hdl.handle.net/1911/27051">Preservativo contra el impio é irreligioso folleto. Aviso oportuno a las autoridades y al Pueblo…</cnxml:link>            </cnxml:link-group>                                <cnxml:link-group type="supplemental">              <cnxml:link url="http://www.somosprimos.com/spanishterms/spanishterms.htm">Compilation of Colonial Spanish Terms and Document Related Phrases</cnxml:link>              <cnxml:link url="http://cnx.org/content/m34696/latest/">Abreviaturas históricas (module)</cnxml:link>              <cnxml:link url="http://www.rae.es/rae.html">Real Academia Española</cnxml:link>            </cnxml:link-group>                  </col:featured-links>      </col:module>                            <col:module document="m40966">        <col:featured-links>                      <cnxml:link-group type="supplemental">              <cnxml:link url="http://cnx.org/content/m40970/latest/">Glosario de Conceptos de las Américas del OAAP</cnxml:link>              <cnxml:link url="http://ouramericas.org/?p=202">What are "Americas Concepts"?</cnxml:link>              <cnxml:link url="http://ouramericas.org/?p=209">Tag Away!</cnxml:link>            </cnxml:link-group>                                <cnxml:link-group type="prerequisite">              <cnxml:link url="http://oaap.rice.edu">Our Americas Archive Partnership</cnxml:link>            </cnxml:link-group>                  </col:featured-links>      </col:module>                            <col:module document="m40970">        <col:featured-links>                      <cnxml:link-group type="supplemental">              <cnxml:link url="http://ouramericas.org/?p=202">What are "Americas Concepts"?</cnxml:link>              <cnxml:link url="http://ouramericas.org/?p=209">Tag Away!</cnxml:link>            </cnxml:link-group>                                <cnxml:link-group type="prerequisite">              <cnxml:link url="http://oaap.rice.edu">Our Americas Archive Partnership</cnxml:link>            </cnxml:link-group>                  </col:featured-links>      </col:module>                    </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:cnxml="http://cnx.rice.edu/cnxml" xml:lang="en" type="Course" authors="AnaMaria Seglie">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11317</md:content-id>
+    <md:title>Glossaries and vocabulary lists</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>be64a69c-190f-4c9b-a323-af0e9a4850de</md:uuid>
+    <md:slug>traducciones-translations</md:slug>
+  </metadata>
+  <col:content>
+    <col:module document="m34696">
+      <col:featured-links>
+        <cnxml:link-group type="example">
+          <cnxml:link url="http://hdl.handle.net/1911/37169">Papeles sobre la reduccion del Seno Mexicano, y Sierra gorda</cnxml:link>
+          <cnxml:link url="http://hdl.handle.net/1911/37171">Ensayo Sobre La Reduccion Y Colonizacion De Las Tribas Barbaras Del Continente</cnxml:link>
+          <cnxml:link url="http://hdl.handle.net/1911/27297">Carta de Juan Elizondo, 23 marzo, 1835, Matamoros, Mexico</cnxml:link>
+          <cnxml:link url="http://scholarship.rice.edu/handle/1911/9227">Carta de J.G. de los Santos a C. Antonio Vasquez, 23 mayo, 1830</cnxml:link>
+          <cnxml:link url="http://scholarship.rice.edu/handle/1911/27118">Carta de Ramon Musquiz, 8 marzo, 1831, Goliad, Bejar</cnxml:link>
+        </cnxml:link-group>
+        <cnxml:link-group type="supplemental">
+          <cnxml:link url="http://cnx.org/content/m35967/latest/">Glossary of common colonial Spanish terms and phrases</cnxml:link>
+          <cnxml:link url="http://www.rae.es/rae.html">Real Academia Espa&#xF1;ola</cnxml:link>
+          <cnxml:link url="http://www.somosprimos.com/spanishterms/spanishterms.htm">Colonial Spanish Terms</cnxml:link>
+        </cnxml:link-group>
+      </col:featured-links>
+    </col:module>
+    <col:module document="m38295">
+      <col:featured-links>
+        <cnxml:link-group type="supplemental">
+          <cnxml:link url="http://cnx.org/content/m38294/latest/">Spanish reading passage: Precios de pasaje por el ferrocarril</cnxml:link>
+          <cnxml:link url="http://cnx.org/content/m38293/latest/">Spanish reading passage: Informe para el viajero del ferrocarril</cnxml:link>
+          <cnxml:link url="http://hdl.handle.net/1911/27428">De M&#xE9;xico a Chicago y Nueva York: gu&#xED;a para el viajero en la que se describen las principales ciudades y ferrocarriles.</cnxml:link>
+          <cnxml:link url="http://hdl.handle.net/1911/36240">From El Paso to New Orleans</cnxml:link>
+          <cnxml:link url="http://www.spanishdict.com/">SpanishDict</cnxml:link>
+          <cnxml:link url="http://www.rae.es/rae.html">Real Academia Espa&#xF1;ola</cnxml:link>
+        </cnxml:link-group>
+      </col:featured-links>
+    </col:module>
+    <col:module document="m38476">
+      <col:featured-links>
+        <cnxml:link-group type="supplemental">
+          <cnxml:link url="http://hdl.handle.net/1911/36248">Savage America, Chapter II [Excerpt from: The Moral History of Women]</cnxml:link>
+          <cnxml:link url="http://www.wordreference.com/">Word Reference dictionary</cnxml:link>
+          <cnxml:link url="http://www.spanishdict.com/">SpanishDict</cnxml:link>
+          <cnxml:link url="http://www.rae.es/rae.html">Real Academia Espa&#xF1;ola</cnxml:link>
+        </cnxml:link-group>
+        <cnxml:link-group type="prerequisite">
+          <cnxml:link url="http://hdl.handle.net/1911/21866">Historia moral de las mujeres</cnxml:link>
+          <cnxml:link url="http://cnx.org/content/m38472/latest/">&#x201C;Historia de Xochitl&#x201D;: A Cultural Spanish reading passage</cnxml:link>
+        </cnxml:link-group>
+      </col:featured-links>
+    </col:module>
+    <col:module document="m35967">
+      <col:featured-links>
+        <cnxml:link-group type="example">
+          <cnxml:link url="http://oaap.rice.edu/">Our Americas Archive Partnership</cnxml:link>
+          <cnxml:link url="http://hdl.handle.net/1911/37171">nsayo Sobre La Reduccion Y Colonizacion De Las Tribas Barbaras Del Continente</cnxml:link>
+          <cnxml:link url="http://hdl.handle.net/1911/37169">Papeles sobre la reduccion del Seno Mexicano, y Sierra gorda</cnxml:link>
+          <cnxml:link url="http://hdl.handle.net/1911/21863">Am&#xE9;rica y sus mujeres</cnxml:link>
+          <cnxml:link url="http://hdl.handle.net/1911/27051">Preservativo contra el impio &#xE9; irreligioso folleto. Aviso oportuno a las autoridades y al Pueblo&#x2026;</cnxml:link>
+        </cnxml:link-group>
+        <cnxml:link-group type="supplemental">
+          <cnxml:link url="http://www.somosprimos.com/spanishterms/spanishterms.htm">Compilation of Colonial Spanish Terms and Document Related Phrases</cnxml:link>
+          <cnxml:link url="http://cnx.org/content/m34696/latest/">Abreviaturas hist&#xF3;ricas (module)</cnxml:link>
+          <cnxml:link url="http://www.rae.es/rae.html">Real Academia Espa&#xF1;ola</cnxml:link>
+        </cnxml:link-group>
+      </col:featured-links>
+    </col:module>
+    <col:module document="m40966">
+      <col:featured-links>
+        <cnxml:link-group type="supplemental">
+          <cnxml:link url="http://cnx.org/content/m40970/latest/">Glosario de Conceptos de las Am&#xE9;ricas del OAAP</cnxml:link>
+          <cnxml:link url="http://ouramericas.org/?p=202">What are "Americas Concepts"?</cnxml:link>
+          <cnxml:link url="http://ouramericas.org/?p=209">Tag Away!</cnxml:link>
+        </cnxml:link-group>
+        <cnxml:link-group type="prerequisite">
+          <cnxml:link url="http://oaap.rice.edu">Our Americas Archive Partnership</cnxml:link>
+        </cnxml:link-group>
+      </col:featured-links>
+    </col:module>
+    <col:module document="m40970">
+      <col:featured-links>
+        <cnxml:link-group type="supplemental">
+          <cnxml:link url="http://ouramericas.org/?p=202">What are "Americas Concepts"?</cnxml:link>
+          <cnxml:link url="http://ouramericas.org/?p=209">Tag Away!</cnxml:link>
+        </cnxml:link-group>
+        <cnxml:link-group type="prerequisite">
+          <cnxml:link url="http://oaap.rice.edu">Our Americas Archive Partnership</cnxml:link>
+        </cnxml:link-group>
+      </col:featured-links>
+    </col:module>
+  </col:content>
+</col:collection>
